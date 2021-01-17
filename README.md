@@ -4,7 +4,7 @@ Here you can find the final project of the class Algorithm and Data Structures. 
 
 Authors:
   - Santiago Alvarez Barbosa
-  - Santiago Diaz Jinete 
-  - Nicolas Velandia 
+  - Santiago Diaz Jinete (sadj123)
+  - Nicolas Velandia (NicolasCode)
   
 Date Finished: 8 May 2020
